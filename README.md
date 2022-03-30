@@ -6,7 +6,7 @@
 
 [Design Patterns JS](https://github.com/fbeline/design-patterns-JS) -  23 design patterns implemented in JavaScript using both prototype and ES6 classes
 
-[Design Patterns For Humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - explanation to design patterns based to [https://github.com/kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+[Design Patterns For Humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - explanation to design patterns based to [Design Patterns For Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 [CSS Words](https://github.com/yoksel/common-words) - Words commonly used in CSS classes
 
@@ -16,10 +16,10 @@
 
 [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet) - cheat sheet automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html)
 
-## :: Growth
+## :orange_book: Growth
 
-[roadmap.sh](https://github.com/kamranahmedse/developer-roadmap) - Community driven roadmaps, articles and resources for developers
+[Roadmap.sh](https://github.com/kamranahmedse/developer-roadmap) - Community driven roadmaps, articles and resources for developers
 
-## Books
+## :blue_book: Books
 
 [You don't know JS](https://github.com/azat-io/you-dont-know-js-ru) - Russian translate of the book series "You Don’t Know JS"
