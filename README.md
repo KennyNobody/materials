@@ -18,9 +18,11 @@
 
 [Learn Git Branching](https://learngitbranching.js.org/) - Visual application for learning GIT
 
-## :orange_book: Growth
+## :orange_book: Resources
 
 [Roadmap.sh](https://github.com/kamranahmedse/developer-roadmap) - Community driven roadmaps, articles and resources for developers
+
+[idratherbewriting.com/learnapidoc/](https://idratherbewriting.com/learnapidoc/) - Documenting APIs: A guide for technical writers and engineers ([RUS](https://starkovden.github.io/index.html))
 
 ## :blue_book: Books
 
